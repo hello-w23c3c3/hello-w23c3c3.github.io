@@ -323,11 +323,18 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
 
 
 body{
-  background-image: url("https://hello-w23c3c3.github.io/img/background.png") !important;
+  background-image: url("https://api.ixiaowai.cn/api/api.php") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
-.main{
+#single{
+  background: none !important;
+}
+.article{
   background-color: rgba(255, 255, 255, 0.8) !important;
 }
 #container::before{
-  background: none;
+  background-color: rgba(255, 255, 255, 0.8) !important;
 }

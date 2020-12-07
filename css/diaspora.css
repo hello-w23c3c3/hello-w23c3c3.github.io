@@ -323,9 +323,7 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
 
 
 body{
-  background-image: url("https://tva3.sinaimg.cn/large/0072Vf1pgy1foxlnayk8fj31kw0w0tve.jpg") !important;
-  background-repeat: no-repeat !important;
-  background-attachment: fixed;
+  background-image: url("https://hello-w23c3c3.github.io/img/background.png") !important;
 }
 .main{
   background-color: rgba(255, 255, 255, 0.8) !important;

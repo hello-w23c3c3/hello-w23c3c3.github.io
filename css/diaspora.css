@@ -323,11 +323,12 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
 
 
 body{
-  background-image: url("https://api.ixiaowai.cn/api/api.php");
+  background-image: url("https://api.ixiaowai.cn/api/api.php") !important;
+  background-repeat: no-repeat !important;
 }
 .main{
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.8) !important;
 }
 .container{
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.8) !important;
 }

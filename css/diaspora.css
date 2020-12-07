@@ -323,8 +323,9 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
 
 
 body{
-  background-image: url("https://api.ixiaowai.cn/api/api.php") !important;
+  background-image: url("https://tva3.sinaimg.cn/large/0072Vf1pgy1foxlnayk8fj31kw0w0tve.jpg") !important;
   background-repeat: no-repeat !important;
+  background-attachment: fixed;
 }
 .main{
   background-color: rgba(255, 255, 255, 0.8) !important;

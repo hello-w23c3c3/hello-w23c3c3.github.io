@@ -321,13 +321,8 @@ pre .keyword,pre .javascript .function {color:#cc99cc;}
   .comment .gt-btn-public .gt-btn-text:after{content:"";}
 }
 
-
-body{
-  background-image: url("https://hello-w23c3c3.github.io/img/welcome-cover.png") !important;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+#screen{
+  position: fixed;
 }
 #single{
   background: none !important;

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>introductory</title>
-    <url>/2020/12/08/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</url>
-    <content><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><h2 id="skc"><a href="#skc" class="headerlink" title="%%%skc"></a>%%%skc</h2>]]></content>
-  </entry>
-  <entry>
     <title>about</title>
     <url>/2020/12/07/about/</url>
     <content><![CDATA[<h1 id="关于作者"><a href="#关于作者" class="headerlink" title="关于作者"></a>关于作者</h1><h3 id="年龄：14"><a href="#年龄：14" class="headerlink" title="年龄：14"></a>年龄：14</h3><h3 id="生日：不说了，反正说了你们也不会送我礼物"><a href="#生日：不说了，反正说了你们也不会送我礼物" class="headerlink" title="生日：不说了，反正说了你们也不会送我礼物"></a>生日：不说了，反正说了你们也不会送我礼物</h3><h3 id="坐标：浙江省"><a href="#坐标：浙江省" class="headerlink" title="坐标：浙江省"></a>坐标：浙江省</h3><h2 id="一个中学OIer"><a href="#一个中学OIer" class="headerlink" title="一个中学OIer"></a>一个中学OIer</h2><h3 id="学籍："><a href="#学籍：" class="headerlink" title="学籍："></a>学籍：</h3><p>小学：浙江省奉化区锦屏中心小学</p>
@@ -42,5 +37,10 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>写在前面</title>
+    <url>/2020/12/08/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</url>
+    <content><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><h2 id="skc"><a href="#skc" class="headerlink" title="%%%skc"></a>%%%skc</h2>]]></content>
   </entry>
 </search>
